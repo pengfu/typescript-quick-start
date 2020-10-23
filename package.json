@@ -1,0 +1,15 @@
+{
+  "name": "typescript-quick-start",
+  "version": "1.0.0",
+  "description": "tsc xxx.ts",
+  "main": "basic-types.js",
+  "dependencies": {
+    "@types/jquery": "^3.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
